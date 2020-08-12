@@ -35,16 +35,16 @@ TABLE BOOKING RESTAURANTS
 -   HTML, CSS and Bootstrap4 for designing user interface
 
 ## Certifications
-Full Stack MERN Bootcamp
+Full Stack MERN Bootcamp from 
 Learn Code Online
 
-Fundamentals of JavaScript
+Fundamentals of JavaScript from
 Udemy
 
-Bootstrap Framework Certification
+Bootstrap Framework Certification from
 Coursera
 
-Introduction to HTML5
+Introduction to HTML5 from
 Coursera
 ## Education
 
